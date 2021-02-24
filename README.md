@@ -8,6 +8,7 @@ We use multiple tools in different computer languages.
 The individual tools are maintained/developed in their own repositories.
 This repository focuses on the pipleline with a set of defined goals.
 
+
 ## Data Preprocessing
 
 ### Conversion of raw data to open formats
@@ -117,6 +118,13 @@ Related projects:
 To add.
 
 
+## Related work
+
+Common formats for data btw tools: tsv, HDF5 and JSON. 
+
+Data models: https://github.com/shuzhao-li/metDataModel
+
+Docker containers: https://github.com/shuzhao-li/docker-metabolomics
 
 
 ## To start a Jupyter Notebook via Docker:
